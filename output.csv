@@ -1,0 +1,115 @@
+Dataset,Algorithm,Number of elements sorted,Execution time (s)
+random,Bubble Sort,10,0.000000
+random,Bubble Sort,100,0.000000
+random,Bubble Sort,1000,0.004659
+random,Bubble Sort,10000,0.818711
+random,Bubble Sort,100000,143.582895
+almost,Bubble Sort,10,0.000000
+almost,Bubble Sort,100,0.000000
+almost,Bubble Sort,1000,0.005532
+almost,Bubble Sort,10000,0.520522
+almost,Bubble Sort,100000,54.074308
+reverse,Bubble Sort,10,0.000000
+reverse,Bubble Sort,100,0.000000
+reverse,Bubble Sort,1000,0.016253
+reverse,Bubble Sort,10000,1.604109
+reverse,Bubble Sort,100000,161.068472
+random,Insertion Sort,10,0.000000
+random,Insertion Sort,100,0.000000
+random,Insertion Sort,1000,0.001010
+random,Insertion Sort,10000,0.213875
+random,Insertion Sort,100000,38.104295
+almost,Insertion Sort,10,0.000000
+almost,Insertion Sort,100,0.000000
+almost,Insertion Sort,1000,0.000000
+almost,Insertion Sort,10000,0.004996
+almost,Insertion Sort,100000,0.436163
+reverse,Insertion Sort,10,0.000000
+reverse,Insertion Sort,100,0.000000
+reverse,Insertion Sort,1000,0.007632
+reverse,Insertion Sort,10000,0.932636
+reverse,Insertion Sort,100000,92.031155
+random,Selection Sort,10,0.000000
+random,Selection Sort,100,0.000000
+random,Selection Sort,1000,0.003519
+random,Selection Sort,10000,0.225197
+random,Selection Sort,100000,40.646810
+almost,Selection Sort,10,0.000000
+almost,Selection Sort,100,0.000000
+almost,Selection Sort,1000,0.005977
+almost,Selection Sort,10000,0.491278
+almost,Selection Sort,100000,48.821774
+reverse,Selection Sort,10,0.000000
+reverse,Selection Sort,100,0.000000
+reverse,Selection Sort,1000,0.004689
+reverse,Selection Sort,10000,0.501973
+reverse,Selection Sort,100000,48.894349
+random,Quick Sort,10,0.000000
+random,Quick Sort,100,0.000000
+random,Quick Sort,1000,0.000000
+random,Quick Sort,10000,0.004026
+random,Quick Sort,100000,0.047716
+almost,Quick Sort,10,0.000000
+almost,Quick Sort,100,0.000000
+almost,Quick Sort,1000,0.006526
+almost,Quick Sort,10000,0.702521
+random,Heap Sort,10,0.000000
+random,Heap Sort,100,0.000000
+random,Heap Sort,1000,0.000000
+random,Heap Sort,10000,0.004479
+random,Heap Sort,100000,0.057232
+almost,Heap Sort,10,0.000000
+almost,Heap Sort,100,0.000000
+almost,Heap Sort,1000,0.001000
+almost,Heap Sort,10000,0.004006
+almost,Heap Sort,100000,0.039534
+reverse,Heap Sort,10,0.000000
+reverse,Heap Sort,100,0.000000
+reverse,Heap Sort,1000,0.000000
+reverse,Heap Sort,10000,0.002979
+reverse,Heap Sort,100000,0.048331
+random,Radix Sort,10,0.000000
+random,Radix Sort,100,0.000000
+random,Radix Sort,1000,0.000000
+random,Radix Sort,10000,0.004535
+random,Radix Sort,100000,0.029077
+almost,Radix Sort,10,0.000000
+almost,Radix Sort,100,0.000000
+almost,Radix Sort,1000,0.000982
+almost,Radix Sort,10000,0.001186
+almost,Radix Sort,100000,0.045300
+reverse,Radix Sort,10,0.000000
+reverse,Radix Sort,100,0.000000
+reverse,Radix Sort,1000,0.000999
+reverse,Radix Sort,10000,0.006515
+reverse,Radix Sort,100000,0.027326
+random,Merge Sort,10,0.000000
+random,Merge Sort,100,0.000000
+random,Merge Sort,1000,0.000507
+random,Merge Sort,10000,0.008525
+random,Merge Sort,100000,0.085711
+almost,Merge Sort,10,0.000000
+almost,Merge Sort,100,0.000000
+almost,Merge Sort,1000,0.000995
+almost,Merge Sort,10000,0.004550
+almost,Merge Sort,100000,0.091603
+reverse,Merge Sort,10,0.000000
+reverse,Merge Sort,100,0.000000
+reverse,Merge Sort,1000,0.001009
+reverse,Merge Sort,10000,0.006503
+reverse,Merge Sort,100000,0.066525
+random,Timsort,10,0.000000
+random,Timsort,100,0.000000
+random,Timsort,1000,0.000000
+random,Timsort,10000,0.004066
+random,Timsort,100000,0.068019
+almost,Timsort,10,0.000000
+almost,Timsort,100,0.000000
+almost,Timsort,1000,0.000000
+almost,Timsort,10000,0.003584
+almost,Timsort,100000,0.059185
+reverse,Timsort,10,0.000000
+reverse,Timsort,100,0.000000
+reverse,Timsort,1000,0.000000
+reverse,Timsort,10000,0.004506
+reverse,Timsort,100000,0.045634
