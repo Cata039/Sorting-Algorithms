@@ -25,8 +25,8 @@ This repository contains the implementation and analysis of various sorting algo
 ## Repository Structure
 - **`algorithms/`:** Contains the C++ implementation of sorting algorithms.
 - **`datasets/`:** Pre-generated datasets categorized by size and type for testing.
-- **`results/`:** CSV files with execution times recorded for all algorithms.
-- **`Sorting_Algorithms.pdf`:** A comprehensive paper detailing:
+
+- **`MPI_Sorting_Algorithms.pdf`:** A comprehensive paper detailing:
   - Theoretical foundations
   - Experiment methodologies
   - Performance results and conclusions
